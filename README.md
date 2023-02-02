@@ -1,10 +1,9 @@
-
-## Repositório utilizado para aprender comandos git.
+## Repositório utilizado para aprender comandos Git.
 ---
 
 # 💻 Stacks utilizadas:
 ![Shell Script](https://img.shields.io/badge/shell_script-%23F05033.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-#### Aqui está uma lista dos principais comandos de shell script:
+#### Aqui está uma lista dos principais comandos Git:
 ---
 `git init`: Inicializa um novo repositório Git em um diretório existente.
 
@@ -35,6 +34,36 @@
 `git fetch`: Puxa as alterações de todas as ramificações remotas para o repositório local.
 
 `git checkout`: Muda para outra ramificação ou volta para uma confirmação anterior.
+
+`git reset`: Remove arquivos do índice (stage) e volta para a última confirmação.
+
+`git rm`: Remove arquivos do repositório Git e do sistema de arquivos.
+
+`git tag`: Adiciona uma tag de versão a uma confirmação específica.
+
+`git blame`: Mostra quem fez a última alteração em cada linha de um arquivo.
+
+`git rebase`: Reaplica as confirmações em uma ramificação em cima de outra ramificação.
+
+`git cherry-pick`: Aplica uma ou mais confirmações específicas a outra ramificação.
+
+`git show`: Exibe os detalhes de uma confirmação específica, incluindo arquivos alterados e mensagem de confirmação.
+
+`git ls-files`: Lista todos os arquivos rastreados pelo Git.
+
+`git grep`: Busca por uma string em todos os arquivos rastreados pelo Git.
+
+`git config`: Configura as opções do Git, incluindo as informações de usuário.
+
+`git format-patch`: Cria patches a partir das confirmações em um repositório Git.
+
+`git mv`: Move ou renomeia arquivos no sistema de arquivos e no repositório Git.
+
+`git annex`: Permite trabalhar com grandes arquivos de forma descentralizada.
+
+`git lfs`: Permite trabalhar com grandes arquivos de forma eficiente.
+
+`git filter-branch`: Filtra as confirmações de uma ramificação para modificar o histórico do repositório.
 
 ---
 **Este é um conjunto básico de comandos do Git, mas existem muitos outros comandos e opções disponíveis, dependerá do seu projeto. É sempre uma boa prática ler a documentação oficial do Git e estudar mais sobre os comandos e funcionalidades disponíveis para você.**
