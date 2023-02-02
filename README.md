@@ -3,7 +3,7 @@
 
 # 💻 Stacks utilizadas:
 ![Shell Script](https://img.shields.io/badge/shell_script-%23F05033.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-#### Aqui está uma lista dos principais comandos Git:
+#### Aqui está uma lista com 30 comandos Git:
 ---
 `git init`: Inicializa um novo repositório Git em um diretório existente.
 
